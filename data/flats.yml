@@ -1,0 +1,21 @@
+SumaiK:
+  name: "Sumai's home"
+  description: "Charming flat in Brick lane"
+  city_name: "London, England"
+  city_slug: "london"
+  wifi: false
+  rating: 4
+AlexS-a:
+  name: "Alex's home"
+  description: "Small flat in Oxford"
+  city_name: "Oxford, England"
+  city_slug: "oxford"
+  wifi: true
+  rating: 3
+benbaumann95:
+  name: "Ben's home"
+  description: "Lovely flat in Colliers Wood"
+  city_name: "Colliers, England"
+  city_slug: "collie"
+  wifi: false
+  rating: 3
